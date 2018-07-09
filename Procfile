@@ -1,2 +1,1 @@
-worker:python telegram.py 
-web:python telegram.py 
+ worker: python telegram.py 
